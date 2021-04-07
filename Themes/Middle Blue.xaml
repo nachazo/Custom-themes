@@ -21,9 +21,9 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary>
                     <Color x:Key="SolidBackgroundFillColorBase">#5885AF</Color>
-                    <Color x:Key="SolidBackgroundFillColorSecondary">#41729F</Color> <!--toolbar-->
-                    <Color x:Key="SolidBackgroundFillColorTertiary">#5885AF</Color> <!--hover tab-->
-                    <Color x:Key="SolidBackgroundFillColorQuarternary">#274472</Color> <!--tab-->
+                    <Color x:Key="SolidBackgroundFillColorSecondary">#41729F</Color>
+                    <Color x:Key="SolidBackgroundFillColorTertiary">#5885AF</Color>
+                    <Color x:Key="SolidBackgroundFillColorQuarternary">#274472</Color>
                     <SolidColorBrush x:Key="SolidBackgroundFillColorBaseBrush" Color="{StaticResource SolidBackgroundFillColorBase}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{StaticResource SolidBackgroundFillColorSecondary}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorTertiaryBrush" Color="{StaticResource SolidBackgroundFillColorTertiary}" />
