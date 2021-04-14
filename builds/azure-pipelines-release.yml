@@ -17,6 +17,7 @@ steps:
     script: |
       [xml]$xmlDoc = Get-Content $(Build.SourcesDirectory)\CustomThemesPackage\Package.appxmanifest
       $xmlDoc.Package.Identity.Name="49306atecsolution.ThemesforFiles"
+      $xmlDoc.Package.Identity.Version=$(MajorVersion).$(MinorVersion).$(date:yy)$(DayOfYear)$(rev:.r)
       $xmlDoc.Save('$(Build.SourcesDirectory)\CustomThemesPackage\Package.appxmanifest')
     failOnStderr: true
 
