@@ -81,6 +81,7 @@
                     <Color x:Key="SolidBackgroundFillColorSecondary">#282A36</Color>
                     <Color x:Key="SolidBackgroundFillColorTertiary">#44475A</Color>
                     <Color x:Key="SolidBackgroundFillColorQuarternary">#44475A</Color>
+                    <Color x:Key="SolidBackgroundAcrylic">#44475A</Color>
                     <SolidColorBrush x:Key="SolidBackgroundFillColorBaseBrush" Color="{StaticResource SolidBackgroundFillColorBase}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{StaticResource SolidBackgroundFillColorSecondary}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorTertiaryBrush" Color="{StaticResource SolidBackgroundFillColorTertiary}" />
