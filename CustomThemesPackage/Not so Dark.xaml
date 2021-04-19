@@ -100,6 +100,7 @@
                     <Color x:Key="SolidBackgroundFillColorSecondary">#FF182C4D</Color>
                     <Color x:Key="SolidBackgroundFillColorTertiary">#FF0C2144</Color>
                     <Color x:Key="SolidBackgroundFillColorQuarternary">#FF00173C</Color>
+                    <Color x:Key="SolidBackgroundAcrylic">#FF00173C</Color>
                     <SolidColorBrush x:Key="ApplicationPageBackgroundThemeBrush" Color="{StaticResource RegionColor}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorBaseBrush" Color="{StaticResource RegionColor}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{StaticResource BasePalette100Color}" />
@@ -205,6 +206,7 @@
                     <Color x:Key="SolidBackgroundFillColorSecondary">#FFFCFCFC</Color>
                     <Color x:Key="SolidBackgroundFillColorTertiary">#FFFBFBFB</Color>
                     <Color x:Key="SolidBackgroundFillColorQuarternary">#FFFBFBFB</Color>
+                    <Color x:Key="SolidBackgroundAcrylic">#FFFBFBFB</Color>
                     <SolidColorBrush x:Key="ApplicationPageBackgroundThemeBrush" Color="{StaticResource BasePalette000Color}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorBaseBrush" Color="{StaticResource BasePalette000Color}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{StaticResource BasePalette100Color}" />
