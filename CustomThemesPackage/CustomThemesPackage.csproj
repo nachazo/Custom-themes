@@ -220,20 +220,18 @@
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Page Include="Bound to be Blue.xaml">
-      <Generator>MSBuild:Compile</Generator>
+    <None Include="Bound to be Blue.xaml">
       <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Luxury red.xaml">
-      <Generator>MSBuild:Compile</Generator>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Luxury red.xaml">
       <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Nightshade.xaml">
-      <Generator>MSBuild:Compile</Generator>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Nightshade.xaml">
       <SubType>Designer</SubType>
-    </Page>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
