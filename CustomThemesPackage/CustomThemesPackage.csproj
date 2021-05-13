@@ -236,7 +236,7 @@
             <SubType>Designer</SubType>
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
-        <None Include="Areo.xaml">
+        <None Include="Aero.xaml">
             <SubType>Designer</SubType>
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
