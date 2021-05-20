@@ -7,6 +7,30 @@
     <ResourceDictionary.ThemeDictionaries>
         <ResourceDictionary x:Key="Default">
             <AcrylicBrush
+                x:Key="PaneHolderPageBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintOpacity="0.5" />
+            <AcrylicBrush
+                x:Key="HorizontalTabControlBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintOpacity="0.5" />
+            <AcrylicBrush
+                x:Key="StatusBarBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintOpacity="0.5" />
+            <AcrylicBrush
+                x:Key="FileBrowserBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintOpacity="0.5" />
+            <AcrylicBrush
                 x:Key="ApplicationPageBackgroundThemeBrush"
                 BackgroundSource="HostBackdrop"
                 FallbackColor="{ThemeResource SystemColorWindowColor}"
@@ -50,6 +74,30 @@
                 TintOpacity="0.5" />
         </ResourceDictionary>
         <ResourceDictionary x:Key="Light">
+            <AcrylicBrush
+                x:Key="PaneHolderPageBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintOpacity="0.5" />
+            <AcrylicBrush
+                x:Key="HorizontalTabControlBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                TintOpacity="0.5" />
+            <AcrylicBrush
+                x:Key="StatusBarBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintOpacity="0.5" />
+            <AcrylicBrush
+                x:Key="FileBrowserBackgroundBrush"
+                BackgroundSource="HostBackdrop"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintColor="{ThemeResource SolidBackgroundFillColorBase}"
+                TintOpacity="0.5" />
             <AcrylicBrush
                 x:Key="ApplicationPageBackgroundThemeBrush"
                 BackgroundSource="HostBackdrop"
