@@ -34,6 +34,9 @@
                     <Thickness x:Key="ButtonBorderThemeThickness">0.8</Thickness>
                     <!--TextBox-->
                     <Thickness x:Key="TextControlBorderThemeThicknessFocused">0.5</Thickness>
+                    <!--Radio Button-->
+                    <x:Double x:Key="RadioButtonBorderThemeThickness">0.5</x:Double>
+                    <SolidColorBrush x:Key="RadioButtonOuterEllipseStroke" Color="#405F89" />
                     <!--ComboBox-->
                     <SolidColorBrush x:Key="ComboBoxBorderBrush" Color="#405F89"/>
                     <Thickness x:Key="ComboBoxBorderThemeThickness">0.8</Thickness>
