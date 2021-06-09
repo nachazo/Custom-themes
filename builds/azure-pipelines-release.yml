@@ -16,7 +16,7 @@ steps:
     targetType: 'inline'
     script: |
       [xml]$xmlDoc = Get-Content $(Build.SourcesDirectory)\CustomSkinsPackage\Package.appxmanifest
-      $xmlDoc.Package.Identity.Name="49306atecsolution.SkinsforFiles"
+      $xmlDoc.Package.Identity.Name="49306atecsolution.ThemesforFiles"
       $xmlDoc.Save('$(Build.SourcesDirectory)\CustomSkinsPackage\Package.appxmanifest')
     failOnStderr: true
 
