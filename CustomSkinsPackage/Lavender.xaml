@@ -137,6 +137,12 @@
                     <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{ThemeResource BasePalette100Color}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorTertiaryBrush" Color="{ThemeResource BasePalette200Color}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource BasePalette300Color}" />
+                    <!--  Tabs  -->
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="{ThemeResource BasePalette300Color}" />
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPressed" Color="{ThemeResource BasePalette300Color}" />
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPointerOver" Color="{ThemeResource BasePalette300Color}" />
+                    <SolidColorBrush x:Key="TabContainerFillColorPrimary" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
                 </ResourceDictionary>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
@@ -277,6 +283,12 @@
                     <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{ThemeResource BasePalette100Color}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorTertiaryBrush" Color="{ThemeResource BasePalette200Color}" />
                     <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource BasePalette300Color}" />
+                    <!--  Tabs  -->
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="{ThemeResource BasePalette300Color}" />
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPressed" Color="{ThemeResource BasePalette300Color}" />
+                    <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPointerOver" Color="{ThemeResource BasePalette300Color}" />
+                    <SolidColorBrush x:Key="TabContainerFillColorPrimary" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
                 </ResourceDictionary>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
