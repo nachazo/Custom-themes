@@ -101,12 +101,6 @@
                 FallbackColor="{ThemeResource SolidBackgroundFillColorQuarternary}"
                 TintColor="{ThemeResource SolidBackgroundFillColorQuarternary}"
                 TintOpacity="0.5" />
-            <AcrylicBrush
-                x:Key="TabContainerFillColorPrimary"
-                BackgroundSource="HostBackdrop"
-                FallbackColor="{ThemeResource SolidBackgroundFillColorTertiary}"
-                TintColor="{ThemeResource SolidBackgroundFillColorTertiary}"
-                TintOpacity="0.5" />
         </ResourceDictionary>
         <ResourceDictionary x:Key="Light">
             <AcrylicBrush
@@ -204,12 +198,6 @@
                 BackgroundSource="HostBackdrop"
                 FallbackColor="{ThemeResource SolidBackgroundFillColorQuarternary}"
                 TintColor="{ThemeResource SolidBackgroundFillColorQuarternary}"
-                TintOpacity="0.5" />
-            <AcrylicBrush
-                x:Key="TabContainerFillColorPrimary"
-                BackgroundSource="HostBackdrop"
-                FallbackColor="{ThemeResource SolidBackgroundFillColorTertiary}"
-                TintColor="{ThemeResource SolidBackgroundFillColorTertiary}"
                 TintOpacity="0.5" />
         </ResourceDictionary>
         <ResourceDictionary x:Key="HighContrast">
