@@ -9,6 +9,8 @@
 
   <Identity Name="SkinsforFiles-Dev" Publisher="CN=53EC4384-7F5B-4CF6-8C23-513FFE9D1AB7" Version="1.2.10.0" />
 
+  <mp:PhoneIdentity PhoneProductId="9d70988d-95b4-4645-8b09-1db04fd2163" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+
   <Properties>
     <DisplayName>Skins for Files</DisplayName>
     <PublisherDisplayName>Yair A</PublisherDisplayName>
