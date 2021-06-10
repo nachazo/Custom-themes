@@ -16,6 +16,8 @@
             <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
             <!-- Acrylic Resources-->
             <Color x:Key="SolidBackgroundAcrylic">#FF271236</Color>
+            <!-- Accent Color -->
+            <Color x:Key="SystemAccentColor">#FF271236</Color>
             <!-- Tab Resrouces -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
@@ -48,6 +50,8 @@
             <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
             <!-- Acrylic Resources-->
             <Color x:Key="SolidBackgroundAcrylic">#FFF4D9FF</Color>
+            <!-- Accent Color -->
+            <Color x:Key="SystemAccentColor">#FFF4D9FF</Color>
             <!-- Tab Resrouces -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
