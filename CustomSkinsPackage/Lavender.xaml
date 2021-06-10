@@ -9,21 +9,21 @@
             <Color x:Key="SolidBackgroundFillColorBase">#FF262738</Color>
             <Color x:Key="SolidBackgroundFillColorSecondary">#FF3F2E4B</Color>
             <Color x:Key="SolidBackgroundFillColorTertiary">#FF332041</Color>
-            <Color x:Key="SolidBackgroundFillColorQuarternary">#FF271236</Color>
+            <Color x:Key="SolidBackgroundFillColorQuarternary">#332041</Color>
             <SolidColorBrush x:Key="SolidBackgroundFillColorBaseBrush" Color="{ThemeResource SolidBackgroundFillColorBase}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorTertiaryBrush" Color="{ThemeResource SolidBackgroundFillColorTertiary}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
             <!-- Acrylic Resources-->
-            <Color x:Key="SolidBackgroundAcrylic">#FF271236</Color>
+            <Color x:Key="SolidBackgroundAcrylic">#332041</Color>
             <!-- Accent Color -->
-            <Color x:Key="SystemAccentColor">#FF271236</Color>
-            <Color x:Key="SystemAccentColorLight1">#FF271236</Color>
-            <Color x:Key="SystemAccentColorLight2">#FF271236</Color>
-            <Color x:Key="SystemAccentColorLight3">#FF271236</Color>
-            <Color x:Key="SystemAccentColorDark1">#FF271236</Color>
-            <Color x:Key="SystemAccentColorDark2">#FF271236</Color>
-            <Color x:Key="SystemAccentColorDark3">#FF271236</Color>
+            <Color x:Key="SystemAccentColor">#8752A8</Color>
+            <Color x:Key="SystemAccentColorLight1">#8752A8</Color>
+            <Color x:Key="SystemAccentColorLight2">#8752A8</Color>
+            <Color x:Key="SystemAccentColorLight3">#8752A8</Color>
+            <Color x:Key="SystemAccentColorDark1">#8752A8</Color>
+            <Color x:Key="SystemAccentColorDark2">#8752A8</Color>
+            <Color x:Key="SystemAccentColorDark3">#8752A8</Color>
             <!-- Tab Resrouces -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
@@ -49,21 +49,21 @@
             <Color x:Key="SolidBackgroundFillColorBase">#FFFEF6FF</Color>
             <Color x:Key="SolidBackgroundFillColorSecondary">#FFFBE4FF</Color>
             <Color x:Key="SolidBackgroundFillColorTertiary">#FFF8DFFF</Color>
-            <Color x:Key="SolidBackgroundFillColorQuarternary">#FFF4D9FF</Color>
+            <Color x:Key="SolidBackgroundFillColorQuarternary">#C3ADCC</Color>
             <SolidColorBrush x:Key="SolidBackgroundFillColorBaseBrush" Color="{ThemeResource SolidBackgroundFillColorBase}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorTertiaryBrush" Color="{ThemeResource SolidBackgroundFillColorTertiary}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
             <!-- Acrylic Resources-->
-            <Color x:Key="SolidBackgroundAcrylic">#FFF4D9FF</Color>
+            <Color x:Key="SolidBackgroundAcrylic">#C3ADCC</Color>
             <!-- Accent Color -->
-            <Color x:Key="SystemAccentColor">#FFF4D9FF</Color>
-            <Color x:Key="SystemAccentColorLight1">#FFF4D9FF</Color>
-            <Color x:Key="SystemAccentColorLight2">#FFF4D9FF</Color>
-            <Color x:Key="SystemAccentColorLight3">#FFF4D9FF</Color>
-            <Color x:Key="SystemAccentColorDark1">#FFF4D9FF</Color>
-            <Color x:Key="SystemAccentColorDark2">#FFF4D9FF</Color>
-            <Color x:Key="SystemAccentColorDark3">#FFF4D9FF</Color>
+            <Color x:Key="SystemAccentColor">#948599</Color>
+            <Color x:Key="SystemAccentColorLight1">#948599</Color>
+            <Color x:Key="SystemAccentColorLight2">#948599</Color>
+            <Color x:Key="SystemAccentColorLight3">#948599</Color>
+            <Color x:Key="SystemAccentColorDark1">#948599</Color>
+            <Color x:Key="SystemAccentColorDark2">#948599</Color>
+            <Color x:Key="SystemAccentColorDark3">#948599</Color>
             <!-- Tab Resrouces -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
