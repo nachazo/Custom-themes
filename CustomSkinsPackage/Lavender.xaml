@@ -24,7 +24,7 @@
             <Color x:Key="SystemAccentColorDark1">#8752A8</Color>
             <Color x:Key="SystemAccentColorDark2">#8752A8</Color>
             <Color x:Key="SystemAccentColorDark3">#8752A8</Color>
-            <!-- Tab Resrouces -->
+            <!-- Tab Resources -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
@@ -64,7 +64,7 @@
             <Color x:Key="SystemAccentColorDark1">#948599</Color>
             <Color x:Key="SystemAccentColorDark2">#948599</Color>
             <Color x:Key="SystemAccentColorDark3">#948599</Color>
-            <!-- Tab Resrouces -->
+            <!-- Tab Resources -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
