@@ -16,6 +16,14 @@
             <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
             <!-- Acrylic Resources-->
             <Color x:Key="SolidBackgroundAcrylic">#A26829</Color>
+            <!-- Accent Color -->
+            <Color x:Key="SystemAccentColor">#6E471C</Color>
+            <Color x:Key="SystemAccentColorLight1">#6E471C</Color>
+            <Color x:Key="SystemAccentColorLight2">#6E471C</Color>
+            <Color x:Key="SystemAccentColorLight3">#6E471C</Color>
+            <Color x:Key="SystemAccentColorDark1">#6E471C</Color>
+            <Color x:Key="SystemAccentColorDark2">#6E471C</Color>
+            <Color x:Key="SystemAccentColorDark3">#6E471C</Color>
             <!-- Tab Resrouces -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
@@ -48,6 +56,14 @@
             <SolidColorBrush x:Key="SolidBackgroundFillColorQuarternaryBrush" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
             <!-- Acrylic Resources-->
             <Color x:Key="SolidBackgroundAcrylic">#D5B18A</Color>
+            <Color x:Key="SystemAccentColorLight1">#D5B18A</Color>
+            <Color x:Key="SystemAccentColorLight2">#D5B18A</Color>
+            <Color x:Key="SystemAccentColorLight3">#D5B18A</Color>
+            <Color x:Key="SystemAccentColorDark1">#D5B18A</Color>
+            <Color x:Key="SystemAccentColorDark2">#D5B18A</Color>
+            <Color x:Key="SystemAccentColorDark3">#D5B18A</Color>
+            <!-- Accent Color -->
+            <Color x:Key="SystemAccentColor">#A26829</Color>
             <!-- Tab Resrouces -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
