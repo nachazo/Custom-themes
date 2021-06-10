@@ -64,7 +64,7 @@
             <Color x:Key="SystemAccentColorDark3">#D5B18A</Color>
             <!-- Accent Color -->
             <Color x:Key="SystemAccentColor">#A26829</Color>
-            <!-- Tab Resrouces -->
+            <!-- Tab Resources -->
             <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
