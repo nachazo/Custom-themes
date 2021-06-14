@@ -260,7 +260,7 @@
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Matte Dark & Grey.xaml">
+    <None Include="Matte Dark &amp; Grey.xaml">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
