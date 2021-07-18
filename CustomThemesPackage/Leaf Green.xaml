@@ -6,6 +6,7 @@
     <ResourceDictionary.ThemeDictionaries>
         <ResourceDictionary x:Key="Default">
             <!-- Background Resources -->
+            <SolidColorBrush x:Key="RootBackgroundBrush" Color="#AA048B5D" />
             <Color x:Key="SolidBackgroundFillColorBase">#01573A</Color>
             <Color x:Key="SolidBackgroundFillColorSecondary">#048B5D</Color>
             <Color x:Key="SolidBackgroundFillColorTertiary">#059866</Color>
@@ -23,29 +24,11 @@
             <Color x:Key="SystemAccentColorLight3">#08FFAB</Color>
             <Color x:Key="SystemAccentColorDark1">#08FFAB</Color>
             <Color x:Key="SystemAccentColorDark2">#08FFAB</Color>
-            <Color x:Key="SystemAccentColorDark3">#08FFAB</Color>
-            <!-- Tab Resources -->
-            <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPressed" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPointerOver" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
-            <SolidColorBrush x:Key="TabContainerFillColorPrimary" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <SolidColorBrush x:Key="TabContainerFillColorSecondary" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <!-- Status Bar Background -->
-            <SolidColorBrush x:Key="StatusBarBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorTertiary}" />
-            <!-- File Browser Control Background -->
-            <SolidColorBrush x:Key="FileBrowserBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorTertiary}" />
-            <!-- Toolbar Background -->
-            <SolidColorBrush x:Key="NavigationToolbarBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <!-- PaneHolder -->
-            <SolidColorBrush x:Key="PaneHolderPageBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <!--  Sidebar  -->
-            <x:Double x:Key="SidebarTintOpacity">0.9</x:Double>
-            <x:Double x:Key="SidebarTintLuminosityOpacity">0.9</x:Double>
+            <Color x:Key="SystemAccentColorDark3">#08FFAB</Color>           
         </ResourceDictionary>
         <ResourceDictionary x:Key="Light">
             <!-- Background Resources -->
+            <SolidColorBrush x:Key="RootBackgroundBrush" Color="#AA06D790" />
             <Color x:Key="SolidBackgroundFillColorBase">#01C985</Color>
             <Color x:Key="SolidBackgroundFillColorSecondary">#06D790</Color>
             <Color x:Key="SolidBackgroundFillColorTertiary">#05CC95</Color>
@@ -64,25 +47,6 @@
             <Color x:Key="SystemAccentColorDark1">#007C52</Color>
             <Color x:Key="SystemAccentColorDark2">#007C52</Color>
             <Color x:Key="SystemAccentColorDark3">#007C52</Color>
-            <!-- Tab Resources -->
-            <SolidColorBrush x:Key="HorizontalTabControlBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackground" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPressed" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPointerOver" Color="{ThemeResource SolidBackgroundFillColorQuarternary}" />
-            <SolidColorBrush x:Key="TabContainerFillColorPrimary" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <SolidColorBrush x:Key="TabContainerFillColorSecondary" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <!-- Status Bar Background -->
-            <SolidColorBrush x:Key="StatusBarBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorTertiary}" />
-            <!-- File Browser Control Background -->
-            <SolidColorBrush x:Key="FileBrowserBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorTertiary}" />
-            <!-- Toolbar Background -->
-            <SolidColorBrush x:Key="NavigationToolbarBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <!-- PaneHolder -->
-            <SolidColorBrush x:Key="PaneHolderPageBackgroundBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
-            <!--  Sidebar  -->
-            <x:Double x:Key="SidebarTintOpacity">0.9</x:Double>
-            <x:Double x:Key="SidebarTintLuminosityOpacity">0.9</x:Double>
         </ResourceDictionary>
     </ResourceDictionary.ThemeDictionaries>
 </ResourceDictionary>
