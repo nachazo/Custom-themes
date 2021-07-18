@@ -25,7 +25,6 @@
             <Color x:Key="SystemAccentColorDark2">#8752A8</Color>
             <Color x:Key="SystemAccentColorDark3">#8752A8</Color>
 
-
             <SolidColorBrush x:Key="RootBackgroundBrush" Color="#AA3F2E4B" />
         </ResourceDictionary>
         <ResourceDictionary x:Key="Light">
