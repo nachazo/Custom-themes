@@ -6,6 +6,7 @@
     <ResourceDictionary.ThemeDictionaries>
         <ResourceDictionary x:Key="Default">
             <!-- Background Resources -->
+            <SolidColorBrush x:Key="RootBackgroundBrush" Color="#AA3F2E4B" />
             <Color x:Key="SolidBackgroundFillColorBase">#FF262738</Color>
             <Color x:Key="SolidBackgroundFillColorSecondary">#FF3F2E4B</Color>
             <Color x:Key="SolidBackgroundFillColorTertiary">#FF332041</Color>
@@ -24,11 +25,10 @@
             <Color x:Key="SystemAccentColorDark1">#8752A8</Color>
             <Color x:Key="SystemAccentColorDark2">#8752A8</Color>
             <Color x:Key="SystemAccentColorDark3">#8752A8</Color>
-
-            <SolidColorBrush x:Key="RootBackgroundBrush" Color="#AA3F2E4B" />
         </ResourceDictionary>
         <ResourceDictionary x:Key="Light">
             <!-- Background Resources -->
+            <SolidColorBrush x:Key="RootBackgroundBrush" Color="#AA7F5C97" />
             <Color x:Key="SolidBackgroundFillColorBase">#FFFEF6FF</Color>
             <Color x:Key="SolidBackgroundFillColorSecondary">#FFFBE4FF</Color>
             <Color x:Key="SolidBackgroundFillColorTertiary">#FFF8DFFF</Color>
@@ -47,8 +47,6 @@
             <Color x:Key="SystemAccentColorDark1">#948599</Color>
             <Color x:Key="SystemAccentColorDark2">#948599</Color>
             <Color x:Key="SystemAccentColorDark3">#948599</Color>
-
-            <SolidColorBrush x:Key="RootBackgroundBrush" Color="#AA7F5C97" />
         </ResourceDictionary>
     </ResourceDictionary.ThemeDictionaries>
 </ResourceDictionary>
