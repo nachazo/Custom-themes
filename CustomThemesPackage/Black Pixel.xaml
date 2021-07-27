@@ -19,9 +19,6 @@
             <Color x:Key="SolidBackgroundAcrylic">#181818</Color>
             <!-- Accent Color -->
             <Color x:Key="SystemAccentColor">#1A73E8</Color>
-            <Color x:Key="SystemAccentColorLight1">#1A73E8</Color>
-            <Color x:Key="SystemAccentColorLight2">#1A73E8</Color>
-            <Color x:Key="SystemAccentColorLight3">#1A73E8</Color>
             <Color x:Key="SystemAccentColorDark1">#1A73E8</Color>
             <Color x:Key="SystemAccentColorDark2">#1A73E8</Color>
             <Color x:Key="SystemAccentColorDark3">#1A73E8</Color>        
